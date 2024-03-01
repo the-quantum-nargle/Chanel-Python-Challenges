@@ -1,2 +1,2 @@
-# Chanel-Python-Challanges
+# Python-Challanges
  Solutions for given Python problems
